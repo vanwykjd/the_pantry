@@ -1,2 +1,2 @@
-GitHub Checkpoint Assignment
+GitHub Checkpoint Assignment -frontend foundation
 # the_pantry
